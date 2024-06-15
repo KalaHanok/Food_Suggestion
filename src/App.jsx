@@ -1,11 +1,11 @@
 import React from "react"
-import Header from "./Components/Header/Header"
+import Homelayout from "./HomeLayout/Homelayout"
 
 function App() {
 
   return (
     <>
-      <Header />
+      <Homelayout />
     </>
   )
 }
