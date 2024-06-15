@@ -1,11 +1,11 @@
 import React from "react"
-import Homelayout from "./HomeLayout/Homelayout"
+import Home from "./HomeLayout/Home"
 
 function App() {
 
   return (
     <>
-      <Homelayout />
+      <Home />
     </>
   )
 }
